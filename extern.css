@@ -1,0 +1,20 @@
+
+#header
+{
+	height:15%;
+	width:50%;
+	float:left;
+}
+#footer
+{
+	margin-top:480px;
+	height:6%;
+	width:113%;
+	background-color:black;
+}
+#content
+{
+	margin-top:4px;
+	height:100%;
+	width:100%;
+}
